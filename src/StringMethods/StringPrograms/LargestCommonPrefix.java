@@ -22,7 +22,7 @@ public class LargestCommonPrefix {
         }
 
 
-//        for (int i=0;i< str1.length;i++){
+//        for (int i=0;i< st.length;i++){
 
 
   //      }
