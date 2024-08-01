@@ -1,4 +1,4 @@
-package StringMethods.StringPrograms;
+package StringPrograms;
 
 public class StringReversal {
     public static void main(String args[]) {

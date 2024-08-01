@@ -16,10 +16,9 @@ public class RemoveDuplicatesArray {
                 j++;
             }
         }
-        //return j;
-        System.out.println(j);
-        for (int k:nums){
-            System.out.println(k);
+
+        for (int i=0;i<j;i++){
+            System.out.println(nums[i]);
         }
     }
 }

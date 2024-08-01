@@ -1,7 +1,4 @@
-package StringMethods.StringPrograms;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+package StringPrograms;
 
 public class ArrayListtoArrayConversion {
     public static void main(String args[]) {

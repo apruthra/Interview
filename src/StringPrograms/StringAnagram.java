@@ -1,4 +1,4 @@
-package StringMethods.StringPrograms;
+package StringPrograms;
 
 import java.util.Arrays;
 
@@ -14,16 +14,6 @@ public class StringAnagram {
 
         Arrays.sort(ch1);
         Arrays.sort(ch2);
-
-        /*for (char k:ch1){
-            System.out.print(k);
-        }
-        System.out.println();
-        for (char k:ch2){
-            System.out.print(k);
-        }
-        System.out.println();*/
-
         for (int i=0;i<str1.length();i++){
             if (ch1[i]==ch2[i]){
                 Anagram=true;
